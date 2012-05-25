@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://SonyaSmoke.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Blog | My Octopress Blog]]></title>
+  <link href="http://SonyaSmoke.github.com/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://SonyaSmoke.github.com/"/>
   <updated>2012-05-25T12:15:16+05:00</updated>
   <id>http://SonyaSmoke.github.com/</id>
@@ -46,7 +46,7 @@ feeling-lucky), a [wiki: test] link to a Wikipedia page, and a link to
 <p>Now some inline markup like <em>italics</em>,  <strong>bold</strong>, and <code>code()</code>. Note that underscores in
 words are ignored in Markdown Extra.</p>
 
-<p><img src="http://SonyaSmoke.github.com/images/photo.jpeg" title="Title is optional" alt="picture alt" /></p>
+<p><img src="/images/photo.jpeg" title="Title is optional" alt="picture alt" /></p>
 
 <blockquote><p>Blockquotes are like quoted text in email replies</p>
 
